@@ -42,86 +42,6 @@
                         </div>
                     </div>
 
-                    <!--Brand Two Start -->
-                    <div class="brand-two">
-                        <div class="brand-two__wrapper">
-                            <div class="brand-two__inner">
-                                <div class="brand-two__left">
-                                    <div class="main-slider__trustpilot-box">
-                                        <ul class="list-unstyled main-slider__trustpilot-img-list">
-                                            <li>
-                                                <div class="main-slider__trustpilot-img">
-                                                    <img src="{{ asset('assets/images/resources/main-slider-trustpilot-img-1.jpg') }}"
-                                                        alt="">
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="main-slider__trustpilot-img">
-                                                    <img src="{{ asset('assets/images/resources/main-slider-trustpilot-img-2.jpg') }}"
-                                                        alt="">
-                                                </div>
-                                            </li>
-                                        </ul>
-                                        <div class="main-slider__trustpilot-content-box">
-                                            <div class="main-slider__trustpilot-logo">
-                                                <img src="{{ asset('assets/images/resources/main-slider-trustpilot-logo.png') }}"
-                                                    alt="">
-                                            </div>
-                                            <div class="main-slider__trustpilot-rating-review">
-                                                <p class="main-slider__trustpilot-rating">5.0 Excellent</p>
-                                                <p class="main-slider__trustpilot-review">Reviews <span class="odometer"
-                                                        data-count="4170"></span> </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="brand-two__right">
-                                    <div class="brand-two__carousel owl-theme owl-carousel">
-                                        <div class="item">
-                                            <div class="brand-two__single">
-                                                <div class="brand-two__img">
-                                                    <img src="{{ asset('assets/images/brand/brand-1-1.png') }}"
-                                                        alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="brand-two__single">
-                                                <div class="brand-two__img">
-                                                    <img src="{{ asset('assets/images/brand/brand-1-2.png') }}"
-                                                        alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="brand-two__single">
-                                                <div class="brand-two__img">
-                                                    <img src="{{ asset('assets/images/brand/brand-1-3.png') }}"
-                                                        alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="brand-two__single">
-                                                <div class="brand-two__img">
-                                                    <img src="{{ asset('assets/images/brand/brand-1-4.png') }}"
-                                                        alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="brand-two__single">
-                                                <div class="brand-two__img">
-                                                    <img src="{{ asset('assets/images/brand/brand-1-5.png') }}"
-                                                        alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                     <!--Brand Two End -->
                     <div class="main-slider-two__shape-1"></div>
                     <div class="main-slider-two__shape-2 float-bob-x">
@@ -193,86 +113,7 @@
                             <a href="https://www.linkedin.com"><span class="icon-linkedin"></span></a>
                         </div>
                     </div>
-                    <!--Brand Two Start -->
-                    <div class="brand-two">
-                        <div class="brand-two__wrapper">
-                            <div class="brand-two__inner">
-                                <div class="brand-two__left">
-                                    <div class="main-slider__trustpilot-box">
-                                        <ul class="list-unstyled main-slider__trustpilot-img-list">
-                                            <li>
-                                                <div class="main-slider__trustpilot-img">
-                                                    <img src="{{ asset('assets/images/resources/main-slider-trustpilot-img-1.jpg') }}"
-                                                        alt="">
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="main-slider__trustpilot-img">
-                                                    <img src="{{ asset('assets/images/resources/main-slider-trustpilot-img-2.jpg') }}"
-                                                        alt="">
-                                                </div>
-                                            </li>
-                                        </ul>
-                                        <div class="main-slider__trustpilot-content-box">
-                                            <div class="main-slider__trustpilot-logo">
-                                                <img src="{{ asset('assets/images/resources/main-slider-trustpilot-logo.png') }}"
-                                                    alt="">
-                                            </div>
-                                            <div class="main-slider__trustpilot-rating-review">
-                                                <p class="main-slider__trustpilot-rating">5.0 Excellent</p>
-                                                <p class="main-slider__trustpilot-review">Reviews <span class="odometer"
-                                                        data-count="4170"></span> </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="brand-two__right">
-                                    <div class="brand-two__carousel owl-theme owl-carousel">
-                                        <div class="item">
-                                            <div class="brand-two__single">
-                                                <div class="brand-two__img">
-                                                    <img src="{{ asset('assets/images/brand/brand-1-1.png') }}"
-                                                        alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="brand-two__single">
-                                                <div class="brand-two__img">
-                                                    <img src="{{ asset('assets/images/brand/brand-1-2.png') }}"
-                                                        alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="brand-two__single">
-                                                <div class="brand-two__img">
-                                                    <img src="{{ asset('assets/images/brand/brand-1-3.png') }}"
-                                                        alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="brand-two__single">
-                                                <div class="brand-two__img">
-                                                    <img src="{{ asset('assets/images/brand/brand-1-4.png') }}"
-                                                        alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="brand-two__single">
-                                                <div class="brand-two__img">
-                                                    <img src="{{ asset('assets/images/brand/brand-1-5.png') }}"
-                                                        alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+
                     <!--Brand Two End -->
                     <div class="main-slider-two__shape-1"></div>
                     <div class="main-slider-two__shape-2 float-bob-x">
@@ -342,86 +183,7 @@
                             <a href="https://www.linkedin.com"><span class="icon-linkedin"></span></a>
                         </div>
                     </div>
-                    <!--Brand Two Start -->
-                    <div class="brand-two">
-                        <div class="brand-two__wrapper">
-                            <div class="brand-two__inner">
-                                <div class="brand-two__left">
-                                    <div class="main-slider__trustpilot-box">
-                                        <ul class="list-unstyled main-slider__trustpilot-img-list">
-                                            <li>
-                                                <div class="main-slider__trustpilot-img">
-                                                    <img src="{{ asset('assets/images/resources/main-slider-trustpilot-img-1.jpg') }}"
-                                                        alt="">
-                                                </div>
-                                            </li>
-                                            <li>
-                                                <div class="main-slider__trustpilot-img">
-                                                    <img src="{{ asset('assets/images/resources/main-slider-trustpilot-img-2.jpg') }}"
-                                                        alt="">
-                                                </div>
-                                            </li>
-                                        </ul>
-                                        <div class="main-slider__trustpilot-content-box">
-                                            <div class="main-slider__trustpilot-logo">
-                                                <img src="{{ asset('assets/images/resources/main-slider-trustpilot-logo.png') }}"
-                                                    alt="">
-                                            </div>
-                                            <div class="main-slider__trustpilot-rating-review">
-                                                <p class="main-slider__trustpilot-rating">5.0 Excellent</p>
-                                                <p class="main-slider__trustpilot-review">Reviews <span class="odometer"
-                                                        data-count="4170"></span> </p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="brand-two__right">
-                                    <div class="brand-two__carousel owl-theme owl-carousel">
-                                        <div class="item">
-                                            <div class="brand-two__single">
-                                                <div class="brand-two__img">
-                                                    <img src="{{ asset('assets/images/brand/brand-1-1.png') }}"
-                                                        alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="brand-two__single">
-                                                <div class="brand-two__img">
-                                                    <img src="{{ asset('assets/images/brand/brand-1-2.png') }}"
-                                                        alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="brand-two__single">
-                                                <div class="brand-two__img">
-                                                    <img src="{{ asset('assets/images/brand/brand-1-3.png') }}"
-                                                        alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="brand-two__single">
-                                                <div class="brand-two__img">
-                                                    <img src="{{ asset('assets/images/brand/brand-1-4.png') }}"
-                                                        alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="item">
-                                            <div class="brand-two__single">
-                                                <div class="brand-two__img">
-                                                    <img src="{{ asset('assets/images/brand/brand-1-5.png') }}"
-                                                        alt="">
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+
                     <!--Brand Two End -->
                     <div class="main-slider-two__shape-1"></div>
                     <div class="main-slider-two__shape-2 float-bob-x">
@@ -544,27 +306,33 @@
                                 <span class="section-title__tagline">About Us</span>
                                 <div class="section-title__tagline-shape-2"></div>
                             </div>
-                            <h2 class="section-title__title title-animation">Unlock Your Business
-                                <span>Potential</span><br><span>with Our best Cutting-Edge</span> IT<br> Solutions
-                                to grow
+                            <h2 class="section-title__title title-animation">CASTILO CLOUD
+                                <span>a fully managed private cloud platform</span>
+
                             </h2>
                         </div>
-                        <p class="about-two__text">Transform your business with our innovative IT solutions,
-                            tailored to address your unique challenges and drive growth in today’s digital
-                            landscape.</p>
+                        <p class="about-two__text">to grow sets itself apart from its
+                            traditional counterparts by means of its
+                            exceptional features. The platform's team comprises highly experienced professionals who
+                            work tirelessly to design a
+                            resilient architecture that caters to your business needs and delivers unparalleled
+                            performance. CASTILO CLOUD inherently establishes state-of-the-art Artificially
+                            Intelligent Cybersecurity MDR (Managed Detection and
+                            Response), which is purpose-built to provide both defensive and offensive measures to secure
+                            your prized IT assets.</p>
                         <div class="about-two__points-box">
                             <ul class="about-two__points-list list-unstyled">
                                 <li>
                                     <div class="icon">
                                         <span class="icon-tick-inside-circle"></span>
                                     </div>
-                                    <p>Customized Solutions for<br> Every Business</p>
+                                    <p>Scalability<br> For Every Business <br> Ransomware Free Backup</p>
                                 </li>
                                 <li>
                                     <div class="icon">
                                         <span class="icon-tick-inside-circle"></span>
                                     </div>
-                                    <p>Enhanced Security and Data<br> Protection</p>
+                                    <p>High Availability<br> Visibility Performance <br> Business Intelligence</p>
                                 </li>
                             </ul>
                             <ul class="about-two__points-list list-unstyled">
@@ -572,20 +340,20 @@
                                     <div class="icon">
                                         <span class="icon-tick-inside-circle"></span>
                                     </div>
-                                    <p>Scalable Infrastructure for<br> Growth</p>
+                                    <p>Cyber Security<br> Resiliency</p>
                                 </li>
                                 <li>
                                     <div class="icon">
                                         <span class="icon-tick-inside-circle"></span>
                                     </div>
-                                    <p>Continuous system<br> monitoring and expert<br> support</p>
+                                    <p>Data Privacy<br> Complaince<br></p>
                                 </li>
                             </ul>
                         </div>
                         <div class="about-two__experience-contact-and-btn">
                             <div class="about-two__experience-box">
                                 <div class="about-two__experience-count-box">
-                                    <h3 class="odometer" data-count="25">00</h3>
+                                    <h3 class="odometer" data-count="35">00</h3>
                                     <span> </span>
                                 </div>
                                 <p class="about-two__experience-text">Years of
@@ -600,10 +368,6 @@
                                     <span>call us for inquiry</span>
                                     <p><a href="tel:+8801941483738">+8801941483738</a></p>
                                 </div>
-                            </div>
-                            <div class="about-two__btn-box">
-                                <a href="{{ route('about') }}" class="thm-btn">Learn More<span
-                                        class="icon-right-arrow"></span></a>
                             </div>
                         </div>
                     </div>
@@ -1225,8 +989,8 @@
                                                         class="icon-right-arrow-1"></span></a>
                                             </div>
                                             <div class="portfolio-two__title-box">
-                                                <h3 class="portfolio-two__title-2"><a
-                                                        href="{{ route('about') }}">Driving Success Through
+                                                <h3 class="portfolio-two__title-2"><a href="{{ route('about') }}">Driving
+                                                        Success Through
                                                         Technology</a></h3>
                                                 <p class="portfolio-two__text">Explore How We've Empowered
                                                     Businesses with Innovative Tech Solutions</p>
@@ -1333,8 +1097,8 @@
                                                         class="icon-right-arrow-1"></span></a>
                                             </div>
                                             <div class="portfolio-two__title-box">
-                                                <h3 class="portfolio-two__title-2"><a
-                                                        href="{{ route('about') }}">Driving Success Through
+                                                <h3 class="portfolio-two__title-2"><a href="{{ route('about') }}">Driving
+                                                        Success Through
                                                         Technology</a></h3>
                                                 <p class="portfolio-two__text">Explore How We've Empowered
                                                     Businesses with Innovative Tech Solutions</p>

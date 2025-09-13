@@ -15,11 +15,11 @@
         <ul class="mobile-nav__contact list-unstyled">
             <li>
                 <i class="fa fa-envelope"></i>
-                <a href="mailto:support@codemet.xyz">support@codemet.xyz</a>
+                <a href="mailto:support@castilocloud.comz">support@castilocloud.com</a>
             </li>
             <li>
                 <i class="fas fa-phone"></i>
-                <a href="tel:+8801740070919">+8801740070919</a>
+                <a href="tel:+8801941483738">+8801941483738</a>
             </li>
         </ul><!-- /.mobile-nav__contact -->
         <div class="mobile-nav__top">

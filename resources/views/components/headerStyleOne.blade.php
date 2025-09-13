@@ -1,15 +1,14 @@
 <header class="main-header-two">
     <div class="main-menu-two__top">
         <div class="main-menu-two__top-inner">
-            <p class="main-menu-two__top-text">CodeMet That Ensures Your IT Runs Seamlessly, Anytime and Every
-                Time</p>
+            <p class="main-menu-two__top-text">Castilo Cloud Secure Platform as a Service (SPaaS)</p>
             <ul class="list-unstyled main-menu-two__contact-list">
                 <li>
                     <div class="icon">
                         <i class="icon-pin"></i>
                     </div>
                     <div class="text">
-                        <p>38 Rabindra Sarani, Dhaka 1230</p>
+                        <p>Apt. B2, House 60, Road 24, Gulshan 1, Dhaka 1212 ,Bangladesh</p>
                     </div>
                 </li>
                 <li>
@@ -17,7 +16,7 @@
                         <i class="icon-search-mail"></i>
                     </div>
                     <div class="text">
-                        <p><a href="mailto:support@codemet.xyz">support@codemet.xyz</a>
+                        <p><a href="mailto:support@castilocloud.com">support@castilocloud.com</a>
                         </p>
                     </div>
                 </li>
@@ -26,7 +25,7 @@
                         <i class="icon-phone-call"></i>
                     </div>
                     <div class="text">
-                        <p><a href="tel:+8801740070919">+880 1740070919</a></p>
+                        <p><a href="tel:+8801941483738">+8801941483738</a></p>
                     </div>
                 </li>
             </ul>

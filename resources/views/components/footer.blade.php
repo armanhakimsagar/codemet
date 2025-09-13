@@ -34,9 +34,9 @@
                                     <h5 class="site-footer-two__contact-title">Contact Info</h5>
                                     <p class="site-footer-two__contact-info">
                                         <a href="mailto:info@domain.com"
-                                            class="site-footer-two__contact-mail">support@codemet.xyz</a>
-                                        <a href="tel:9900567780"
-                                            class="site-footer-two__contact-phone">+8801740070919</a>
+                                            class="site-footer-two__contact-mail">support@castilocloud.com</a>
+                                        <a href="tel:+8801941483738"
+                                            class="site-footer-two__contact-phone">+8801941483738</a>
                                     </p>
                                 </div>
                             </li>
@@ -47,7 +47,7 @@
                                 <div class="site-footer-two__contact-content">
                                     <h5 class="site-footer-two__contact-title">Location</h5>
                                     <p class="site-footer-two__contact-info">
-                                        38 Rabindra Sarani, Dhaka 1230
+                                        Apt. B2, House 60, Road 24, Gulshan 1, Dhaka 1212, Bangladesh
                                     </p>
                                 </div>
                             </li>
@@ -108,15 +108,14 @@
                     <div class="site-footer-two__bottom-inner">
                         <div class="site-footer-two__copyright">
                             <p class="site-footer-two__copyright-text">
-                                ⓒ Copyright {{ date('Y') }} <a href="#">CodeMet</a> All rights reserved
+                                ⓒ Copyright {{ date('Y') }} <a href="#">Castilo Cloud</a> All rights reserved
                             </p>
                         </div>
                         <div class="site-footer-two__social-box">
                             <h4 class="site-footer-two__social-title">Follow Us:</h4>
                             <div class="site-footer-two__social-box-inner">
-                                <a href="https://www.facebook.com/CodeMet"><span class="icon-facebook"></span></a>
-                                <a href="https://www.linkedin.com/company/codemetsoftware"><span
-                                        class="icon-linkedin"></span></a>
+                                <a href="https://www.facebook.com"><span class="icon-facebook"></span></a>
+                                <a href="https://www.linkedin.com"><span class="icon-linkedin"></span></a>
                             </div>
                         </div>
                     </div>

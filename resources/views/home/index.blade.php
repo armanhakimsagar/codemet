@@ -1,5 +1,5 @@
 @extends('layouts.layout1')
-@section('title', 'Software Company || CodeMet || IT Solutions & Technology Company')
+@section('title', 'Castilo Cloud Secure Platform as a Service (SPaaS)')
 
 
 @section('content')
@@ -37,9 +37,8 @@
                     <div class="main-slider-two__social-box">
                         <h4 class="main-slider-two__social-title">Follow Us:</h4>
                         <div class="main-slider-two__social-box-inner">
-                            <a href="https://www.facebook.com/CodeMet"><span class="icon-facebook"></span></a>
-                            <a href="https://www.linkedin.com/company/codemetsoftware"><span
-                                    class="icon-linkedin"></span></a>
+                            <a href="https://www.facebook.com"><span class="icon-facebook"></span></a>
+                            <a href="https://www.linkedin.com"><span class="icon-linkedin"></span></a>
                         </div>
                     </div>
 
@@ -140,14 +139,25 @@
                                             <img src="{{ asset('assets/images/icon/main-slider-sub-title-icon.png') }}"
                                                 alt="">
                                         </div>
-                                        <p class="main-slider-two__sub-title">IT Solutions Designed for Your Success
+                                        <p class="main-slider-two__sub-title">CASTILO CLOUD, a fully managed private cloud
+                                            platform
+
                                         </p>
                                     </div>
                                     <h2 class="main-slider-two__title">
-                                        CodeMet - Smart<br> Solutions for a <br><span>Connected world</span>
-                                    </h2>
-                                    <p class="main-slider-two__text">From strategic IT consulting to seamless <br>
-                                        implementation, we deliver tailored solutions <br> that drive efficiency</p>
+                                        CASTILO CLOUD </h2>
+                                    <p class="main-slider-two__text"> Smart CASTILO CLOUD inherently establishes
+                                        state-of-the-art
+                                        Artificially Intelligent Cybersecurity MDR (Managed Detection and
+                                        Response) which is purpose-built to provide both defensive and
+                                        offensive
+                                        measures to secure your prized IT assets. a fully managed private cloud platform,
+                                        sets itself
+                                        apart from its traditional counterparts by means of its
+                                        exceptional features. The platform's team comprises highly experienced professionals
+                                        who work tirelessly to design a
+                                        resilient architecture that caters to your business needs and delivers unparalleled
+                                        performance. </p>
                                     <div class="main-slider-two__btns-box">
                                         <div class="main-slider-two__btn-box-1">
                                             <a href="{{ route('contact') }}" class="thm-btn">Get Started<span
@@ -179,9 +189,8 @@
                     <div class="main-slider-two__social-box">
                         <h4 class="main-slider-two__social-title">Follow Us:</h4>
                         <div class="main-slider-two__social-box-inner">
-                            <a href="https://www.facebook.com/CodeMet"><span class="icon-facebook"></span></a>
-                            <a href="https://www.linkedin.com/company/codemetsoftware"><span
-                                    class="icon-linkedin"></span></a>
+                            <a href="https://www.facebook.com"><span class="icon-facebook"></span></a>
+                            <a href="https://www.linkedin.com"><span class="icon-linkedin"></span></a>
                         </div>
                     </div>
                     <!--Brand Two Start -->
@@ -281,14 +290,22 @@
                                             <img src="{{ asset('assets/images/icon/main-slider-sub-title-icon.png') }}"
                                                 alt="">
                                         </div>
-                                        <p class="main-slider-two__sub-title">IT Solutions Designed for Your Success
+                                        <p class="main-slider-two__sub-title">CASTILO CLOUD, a fully managed private cloud
+                                            platform
+
                                         </p>
                                     </div>
                                     <h2 class="main-slider-two__title">
-                                        <span>CodeMet -</span> Empowering<br> Innovation Delivering<br> Solutions
+                                        <span>CASTILO CLOUD -</span> composite private CLOUD service is a
+                                        comprehensive Secure Platform as a Service (SPaaS) solution
                                     </h2>
-                                    <p class="main-slider-two__text">From strategic IT consulting to seamless <br>
-                                        implementation, we deliver tailored solutions <br> that drive efficiency</p>
+                                    <p class="main-slider-two__text">
+                                        that encompasses all the critical criteria required for a robust and Hyper
+                                        converged secure private cloud infrastructure (HCI) and Platform. This
+                                        service guarantees high availability, performance, scalability, reliability,
+                                        visibility plus more visibility, economy, local regulatory compliance, and
+                                        cybersecurity. It is a holistic platform that offers businesses an efficient
+                                        and reliable way to manage their IT infrastructure and Applications.</p>
                                     <div class="main-slider-two__btns-box">
                                         <div class="main-slider-two__btn-box-1">
                                             <a href="{{ route('contact') }}" class="thm-btn">Get Started<span
@@ -321,9 +338,8 @@
                         <h4 class="main-slider-two__social-title">Follow Us:</h4>
                         <div class="main-slider-two__social-box-inner">
 
-                            <a href="https://www.facebook.com/CodeMet"><span class="icon-facebook"></span></a>
-                            <a href="https://www.linkedin.com/company/codemetsoftware"><span
-                                    class="icon-linkedin"></span></a>
+                            <a href="https://www.facebook.com"><span class="icon-facebook"></span></a>
+                            <a href="https://www.linkedin.com"><span class="icon-linkedin"></span></a>
                         </div>
                     </div>
                     <!--Brand Two Start -->
@@ -423,14 +439,17 @@
                                             <img src="{{ asset('assets/images/icon/main-slider-sub-title-icon.png') }}"
                                                 alt="">
                                         </div>
-                                        <p class="main-slider-two__sub-title">IT Solutions Designed for Your Success
+                                        <p class="main-slider-two__sub-title">CASTILO CLOUD, a fully managed private cloud
+                                            platform
                                         </p>
                                     </div>
-                                    <h2 class="main-slider-two__title">Tailored IT <span>Strategies</span> <br>
-                                        <span>to Drive Your Business</span> <br> Forward
+                                    <h2 class="main-slider-two__title">CASTILO CLOUD <br>
+                                        <span>offers Big Data management</span> <br> services
                                     </h2>
-                                    <p class="main-slider-two__text">From strategic IT consulting to seamless <br>
-                                        implementation, we deliver tailored solutions <br> that drive efficiency</p>
+                                    <p class="main-slider-two__text">to
+                                        assist organizations in making informed and competitive
+                                        business decisions, presenting actionable insights
+                                        through BI reports.</p>
                                     <div class="main-slider-two__btns-box">
                                         <div class="main-slider-two__btn-box-1">
                                             <a href="{{ route('contact') }}" class="thm-btn">Get Started<span
@@ -579,7 +598,7 @@
                                 </div>
                                 <div class="about-two__call-content">
                                     <span>call us for inquiry</span>
-                                    <p><a href="tel:+8801740070919">+8801740070919</a></p>
+                                    <p><a href="tel:+8801941483738">+8801941483738</a></p>
                                 </div>
                             </div>
                             <div class="about-two__btn-box">
@@ -1983,7 +2002,7 @@
                                 </div>
                                 <div class="content">
                                     <span>Email Us</span>
-                                    <p><a href="mailto:info@domain.com">support@codemet.xyz</a></p>
+                                    <p><a href="mailto:info@domain.com">support@castilocloud.com</a></p>
                                 </div>
                             </li>
                             <li>
@@ -1992,7 +2011,7 @@
                                 </div>
                                 <div class="content">
                                     <span>Contact US</span>
-                                    <p><a href="tel:9900567780">+8801740070919</a></p>
+                                    <p><a href="tel:9900567780">+8801941483738</a></p>
                                 </div>
                             </li>
                             <li>
@@ -2001,7 +2020,7 @@
                                 </div>
                                 <div class="content">
                                     <span>Our Address</span>
-                                    <p>38 Rabindra Sarani, Dhaka 1230</p>
+                                    <p>Apt. B2, House 60, Road 24, Gulshan 1, Dhaka 1212 , Bangladesh</p>
                                 </div>
                             </li>
                         </ul>
@@ -2277,10 +2296,15 @@
                                 <span class="icon-pointed-star"></span>
                                 <span class="icon-star"></span>
                             </div>
-                            <p class="testimonial-two__text">Codemet Software Company provided an exceptional service from
-                                start to finish. Their team was professional, attentive, and delivered a solution that
-                                exceeded our expectations. Highly recommended for anyone looking for reliable software
-                                solutions</p>
+                            <p class="testimonial-two__text">CASTILO CLOUD primarily adopted the Security Service Edge
+                                (SSE), a Cybersecurity concept introduced by Gartner in 2021.
+                                SSE comprises of the security components of the secure access service edge (SASE). SSE
+                                encompasses a set of integrated,
+                                cloud-centric security capabilities that include NIST’s Zero Trust Network Access (ZTNA),
+                                Cloud Access Security Broker (CASB),
+                                Firewall as-a-service (FWaaS), and Secure Web Gateway (SWG) that includes dual WAF (Web
+                                Application Firewall) and secure
+                                reverse-proxy. </p>
                         </div>
                         <div class="testimonial-two__client-info">
                             <div class="testimonial-two__client-img">
@@ -2310,9 +2334,16 @@
                                 <span class="icon-pointed-star"></span>
                                 <span class="icon-pointed-star"></span>
                             </div>
-                            <p class="testimonial-two__text">Working with Codemet Software was a seamless experience. They
-                                understood our requirements perfectly and delivered a high-quality product on time. Their
-                                dedication and expertise truly stand out</p>
+                            <p class="testimonial-two__text"> CASTILO CLOUD has multiple
+                                global data center partner
+                                companies with at least Tier/
+                                Rank-3 Certification. Our private
+                                cloud hosting is available in
+                                various countries including Singapore, Hong Kong, Australia, UK,
+                                Germany, Finland, USA, Canada, and Bangladesh (Dhaka, Jessore,
+                                Chittagong, and Thakurgaon) with easy interconnection. All our data
+                                centers meet high standards of reliability, security, and scalability as per
+                                their best data center selection certification</p>
                         </div>
                         <div class="testimonial-two__client-info">
                             <div class="testimonial-two__client-img">
@@ -2342,9 +2373,10 @@
                                 <span class="icon-star"></span>
                                 <span class="icon-star"></span>
                             </div>
-                            <p class="testimonial-two__text">We are extremely impressed with Codemet Software Company. The
-                                team was responsive, detail-oriented, and ensured every aspect of the project was handled
-                                with care. The final product perfectly aligns with our needs.</p>
+                            <p class="testimonial-two__text">Switching to CASTILO Cloud was one of the best decisions for
+                                our IT infrastructure. Their secure private cloud platform ensures high availability and
+                                performance, and we no longer worry about downtime. The cost-effectiveness and scalability
+                                are unmatched</p>
                         </div>
                         <div class="testimonial-two__client-info">
                             <div class="testimonial-two__client-img">
@@ -2374,9 +2406,10 @@
                                 <span class="icon-pointed-star"></span>
                                 <span class="icon-star"></span>
                             </div>
-                            <p class="testimonial-two__text">Codemet Software delivered an outstanding mobile app for our
-                                business. The user interface is intuitive, the performance is smooth, and the team was
-                                highly responsive throughout the development process. Truly a professional experience!</p>
+                            <p class="testimonial-two__text">CASTILO’s SPaaS solution transformed the way we manage our
+                                applications and data. The hyper-converged infrastructure is reliable, secure, and fully
+                                compliant with local regulations. Their support team is responsive and knowledgeable. Highly
+                                recommended!</p>
                         </div>
                         <div class="testimonial-two__client-info">
                             <div class="testimonial-two__client-img">
@@ -2406,9 +2439,10 @@
                                 <span class="icon-pointed-star"></span>
                                 <span class="icon-pointed-star"></span>
                             </div>
-                            <p class="testimonial-two__text">The AI agent developed by Codemet Software has transformed
-                                how we interact with our customers. It’s smart, reliable, and has significantly improved our
-                                efficiency. Their technical expertise and support were remarkable.</p>
+                            <p class="testimonial-two__text">Switching to CASTILO Cloud was one of the best decisions for
+                                our IT infrastructure. Their secure private cloud platform ensures high availability and
+                                performance, and we no longer worry about downtime. The cost-effectiveness and scalability
+                                are unmatched.</p>
                         </div>
                         <div class="testimonial-two__client-info">
                             <div class="testimonial-two__client-img">
@@ -2416,9 +2450,9 @@
                                     alt="">
                             </div>
                             <div class="testimonial-two__client-content">
-                                <h4 class="testimonial-two__client-name"><a href="{{ route('about') }}">Sarah
-                                        Williams</a></h4>
-                                <p class="testimonial-two__sub-title">Marketing Manger</p>
+                                <h4 class="testimonial-two__client-name"><a href="{{ route('about') }}">Sara Khan</a>
+                                </h4>
+                                <p class="testimonial-two__sub-title">IT Manager, Global Retail Corp</p>
                             </div>
                         </div>
                         <div class="testimonial-two__quote">
@@ -2438,9 +2472,9 @@
                                 <span class="icon-star"></span>
                                 <span class="icon-star"></span>
                             </div>
-                            <p class="testimonial-two__text">Codemet Software built a fully customized ERP system for our
-                                company that streamlined all our operations. The solution is robust, easy to use, and has
-                                greatly improved productivity. Their attention to detail is unmatched.</p>
+                            <p class="testimonial-two__text">We needed a private cloud platform that could handle our
+                                growing business needs without breaking the budget. CASTILO Cloud delivered exactly that — a
+                                secure, scalable, and cost-efficient solution. Performance and visibility are excellent.</p>
                         </div>
                         <div class="testimonial-two__client-info">
                             <div class="testimonial-two__client-img">
@@ -2448,9 +2482,9 @@
                                     alt="">
                             </div>
                             <div class="testimonial-two__client-content">
-                                <h4 class="testimonial-two__client-name"><a href="{{ route('about') }}">James
-                                        Anderson</a></h4>
-                                <p class="testimonial-two__sub-title">Product Designer</p>
+                                <h4 class="testimonial-two__client-name"><a href="{{ route('about') }}">Imran
+                                        Hossain</a></h4>
+                                <p class="testimonial-two__sub-title">CEO, FinTech Innovations</p>
                             </div>
                         </div>
                         <div class="testimonial-two__quote">
@@ -2470,9 +2504,9 @@
                                 <span class="icon-pointed-star"></span>
                                 <span class="icon-star"></span>
                             </div>
-                            <p class="testimonial-two__text">Working with Codemet Software on our latest tech project was
-                                fantastic. They combined innovation with practicality, delivering solutions that exceeded
-                                our expectations. Their commitment to quality and deadlines is impressive.</p>
+                            <p class="testimonial-two__text">With CASTILO Cloud, we finally have a private cloud platform
+                                that combines security, reliability, and efficiency. Our IT operations are smoother than
+                                ever, and we’ve seen significant cost savings without compromising performance</p>
                         </div>
                         <div class="testimonial-two__client-info">
                             <div class="testimonial-two__client-img">
@@ -2480,9 +2514,9 @@
                                     alt="">
                             </div>
                             <div class="testimonial-two__client-content">
-                                <h4 class="testimonial-two__client-name"><a href="{{ route('about') }}">Sarah
-                                        Williams</a></h4>
-                                <p class="testimonial-two__sub-title">Marketing Manger</p>
+                                <h4 class="testimonial-two__client-name"><a href="{{ route('about') }}">Nadia
+                                        Rahman</a></h4>
+                                <p class="testimonial-two__sub-title">Head of IT, Innovatech Solutions</p>
                             </div>
                         </div>
                         <div class="testimonial-two__quote">

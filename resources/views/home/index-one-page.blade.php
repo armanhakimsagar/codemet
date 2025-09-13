@@ -582,7 +582,7 @@
                                 </div>
                                 <div class="about-two__call-content">
                                     <span>call us for inquiry</span>
-                                    <p><a href="tel:+8801740070919">+8801740070919</a></p>
+                                    <p><a href="tel:+8801941483738">+8801941483738</a></p>
                                 </div>
                             </div>
                             <div class="about-two__btn-box">

@@ -1,24 +1,21 @@
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>CodeMet – Global Software Company | Software Development, AI, Mobile Apps, ERP & Web Solutions</title>
-    <meta name="title"
-        content="CodeMet – Global Software Company | Software Development, AI, Mobile Apps, ERP & Web Solutions">
+    <title>CASTILO – Secure Private Cloud Service | SPaaS, HCI, High Availability & Cybersecurity</title>
+    <meta name="title" content="CASTILO – Secure Private Cloud Service | SPaaS, HCI, High Availability & Cybersecurity">
     <meta name="description"
-        content="CodeMet is a global software company providing custom software development, mobile apps, AI & machine learning, ERP, CRM, web applications, cloud solutions, and IT support. Seamless IT solutions, anytime and every time.">
-
-
+        content="CASTILO Composite Private Cloud Service offers a robust, hyper-converged secure private cloud platform (SPaaS) ensuring high availability, performance, scalability, cybersecurity, and cost-effective IT infrastructure management.">
 
     <meta property="twitter:card" content="summary_large_image">
-    <meta property="twitter:url" content="https://www.codemet.xyz/">
+    <meta property="twitter:url" content="https://www.castilocloud.com/">
     <meta property="twitter:title"
-        content="CodeMet – Global Software Company | Software Development, AI, Mobile Apps, ERP & Web Solutions">
+        content="CASTILO – Secure Private Cloud Service | SPaaS, HCI, High Availability & Cybersecurity">
     <meta property="twitter:description"
-        content="CodeMet delivers cutting-edge software solutions worldwide. Specializing in AI, mobile apps, ERP, CRM, and cloud infrastructure to ensure your IT runs seamlessly.">
-    <meta property="twitter:image" content="https://www.codemet.xyz/assets/images/favicons/apple-touch-icon.png">
+        content="CASTILO provides a holistic private cloud solution with high performance, reliability, compliance, and cybersecurity. Optimize your IT infrastructure with cost-effective, scalable, and secure cloud services.">
+    <meta property="twitter:image" content="https://www.castilocloud.com/assets/images/favicons/apple-touch-icon.png">
 
-    <link rel="icon" type="image/png" href="https://www.codemet.xyz/assets/images/favicons/apple-touch-icon.png">
-    <!-- favicons Icons -->
+    <link rel="icon" type="image/png"
+        href="https://www.castilocloud.com/assets/images/favicons/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="180x180" href="{{ asset('assets/images/favicons/apple-touch-icon.png') }}" />
     <link rel="icon" type="image/png" sizes="32x32"
         href="{{ asset('assets/images/favicons/favicon-32x32.png') }}" />
@@ -26,48 +23,30 @@
         href="{{ asset('assets/images/favicons/favicon-16x16.png') }}" />
     <link rel="manifest" href="{{ asset('assets/images/favicons/site.webmanifest') }}" />
 
-    <!-- fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-
     <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet">
-
-
     <link href="https://fonts.googleapis.com/css2?family=Marcellus&display=swap" rel="stylesheet">
-    <!-- Keywords -->
+
     <meta name="keywords"
-        content="CodeMet, software company, global software solutions, software development, web development, mobile app development, AI solutions, machine learning, ERP software, CRM systems, cloud solutions, IT support, e-commerce development, custom software, API development, UI/UX design, digital transformation">
+        content="CASTILO, private cloud, SPaaS, hyper-converged infrastructure, HCI, secure cloud, IT infrastructure, cloud computing, high availability, cybersecurity, cost-effective cloud, scalable IT solutions, regulatory compliance, reliable platform">
 
-    <!-- Author -->
-    <meta name="author" content="CodeMet Software Company">
-
-    <!-- Robots -->
+    <meta name="author" content="CASTILO Composite Private Cloud Service">
     <meta name="robots" content="index, follow">
     <meta name="revisit-after" content="7 days">
-
-    <!-- Language -->
     <meta http-equiv="Content-Language" content="en">
 
-    <!-- Open Graph / Facebook -->
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://www.codemet.xyz/">
+    <meta property="og:url" content="https://www.castilocloud.com/">
     <meta property="og:title"
-        content="CodeMet – Global Software Company | Software Development, AI, Mobile Apps, ERP & Web Solutions">
+        content="CASTILO – Secure Private Cloud Service | SPaaS, HCI, High Availability & Cybersecurity">
     <meta property="og:description"
-        content="CodeMet delivers cutting-edge software solutions worldwide. Specializing in AI, mobile apps, ERP, CRM, and cloud infrastructure to ensure your IT runs seamlessly.">
-    <meta property="og:image" content="https://www.codemet.xyz/assets/images/favicons/apple-touch-icon.png">
+        content="CASTILO Composite Private Cloud Service offers high availability, performance, scalability, cybersecurity, and cost-effective IT infrastructure management for businesses.">
+    <meta property="og:image" content="https://www.castilocloud.com/assets/images/favicons/apple-touch-icon.png">
 
-    <meta name="keywords"
-        content="CodeMet, software company, global software solutions, software development, web development, mobile app development, AI solutions, machine learning, ERP software, CRM systems, cloud solutions, IT support, e-commerce development, custom software, API development, UI/UX design, digital transformation">
-
-    <!-- Canonical URL -->
-    <link rel="canonical" href="https://www.codemet.xyz/" />
-
-    <!-- Robots -->
-    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://www.castilocloud.com/" />
     <meta name="googlebot" content="index, follow">
     <meta name="bingbot" content="index, follow">
-    <!-- Twitter -->
 
 
 

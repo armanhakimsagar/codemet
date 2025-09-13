@@ -104,7 +104,7 @@
     <link rel="stylesheet" href="{{ asset('assets/css/jarallax.css') }}" />
     <link rel="stylesheet" href="{{ asset('assets/css/jquery.magnific-popup.css') }}" />
     <link rel="stylesheet" href="{{ asset('assets/css/odometer.min.css') }}" />
-    <link rel="stylesheet" href="{{ asset('assets/css/flaticon.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/css/flaticon.css') }}" />
     <link rel="stylesheet" href="{{ asset('assets/css/owl.carousel.min.css') }}" />
     <link rel="stylesheet" href="{{ asset('assets/css/owl.theme.default.min.css') }}" />
     <link rel="stylesheet" href="{{ asset('assets/css/nice-select.css') }}" />

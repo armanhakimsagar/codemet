@@ -98,9 +98,9 @@
                     <div class="main-slider-two__bg"
                         style="background-image: url({{ asset('assets/images/backgrounds/slider-2-2.jpg') }});"></div>
                     <ul class="list-unstyled main-slider-two__menu">
-                        <li><a href="{{ route('about') }}">Help</a></li>
-                        <li><a href="{{ route('contact') }}">Support</a></li>
-                        <li><a href="{{ route('faq') }}">Faqs</a></li>
+                        <li><a href="#touch">Help</a></li>
+                        <li><a href="#touch">Support</a></li>
+                        <li><a href="#touch">Faqs</a></li>
                     </ul>
                     <div class="main-slider-two__social-box">
                         <h4 class="main-slider-two__social-title">Follow Us:</h4>
@@ -464,7 +464,7 @@
                         <span>Innovative IT Services</span><br><span>Tailored for Your Success</span>
                     </h2>
                 </div>
-                <a href="{{ route('services') }}" class="services-two__round-text-box">
+                <a href="#touch" class="services-two__round-text-box">
                     <div class="services-two__round-text-box-outer">
                         <div class="services-two__round-text-box-inner">
                             <div class="services-two__curved-circle">
@@ -507,7 +507,7 @@
                     <div class="services-two__services-list-single">
                         <div class="services-two__count-and-title">
                             <div class="services-two__count"></div>
-                            <h3 class="services-two__title"><a href="{{ route('about') }}">Up
+                            <h3 class="services-two__title"><a href="#touch">Up
                                     <br> Cloud</a></h3>
                         </div>
                         <div class="services-two__service-list-box">
@@ -533,7 +533,7 @@
                     <div class="services-two__services-list-single">
                         <div class="services-two__count-and-title">
                             <div class="services-two__count"></div>
-                            <h3 class="services-two__title"><a href="{{ route('about') }}">OPN
+                            <h3 class="services-two__title"><a href="#touch">OPN
                                     <br> Sense</a></h3>
                         </div>
                         <div class="services-two__service-list-box">
@@ -559,7 +559,7 @@
                     <div class="services-two__services-list-single">
                         <div class="services-two__count-and-title">
                             <div class="services-two__count"></div>
-                            <h3 class="services-two__title"><a href="{{ route('about') }}">Docker
+                            <h3 class="services-two__title"><a href="#touch">Docker
                                     <br> Kubernetes</a></h3>
                         </div>
                         <div class="services-two__service-list-box">
@@ -587,7 +587,7 @@
                     <div class="services-two__services-list-single">
                         <div class="services-two__count-and-title">
                             <div class="services-two__count"></div>
-                            <h3 class="services-two__title"><a href="{{ route('about') }}">Ansible
+                            <h3 class="services-two__title"><a href="#touch">Ansible
                                     <br> ZABBIX</a></h3>
                         </div>
                         <div class="services-two__service-list-box">
@@ -1145,7 +1145,7 @@
                                 <img src="{{ asset('assets/images/testimonial/testimonial-2-3.jpg') }}" alt="">
                             </div>
                             <div class="testimonial-two__client-content">
-                                <h4 class="testimonial-two__client-name"><a href="{{ route('about') }}">James
+                                <h4 class="testimonial-two__client-name"><a href="#touch">James
                                         Anderson</a></h4>
                                 <p class="testimonial-two__sub-title">Product Designer</p>
                             </div>
@@ -1177,7 +1177,7 @@
                                 <img src="{{ asset('assets/images/testimonial/testimonial-2-1.jpg') }}" alt="">
                             </div>
                             <div class="testimonial-two__client-content">
-                                <h4 class="testimonial-two__client-name"><a href="{{ route('about') }}">Thomas
+                                <h4 class="testimonial-two__client-name"><a href="#touch">Thomas
                                         Alison</a></h4>
                                 <p class="testimonial-two__sub-title">UI/UX Designer</p>
                             </div>
@@ -1209,7 +1209,7 @@
                                 <img src="{{ asset('assets/images/testimonial/testimonial-2-2.jpg') }}" alt="">
                             </div>
                             <div class="testimonial-two__client-content">
-                                <h4 class="testimonial-two__client-name"><a href="{{ route('about') }}">Sara Khan</a>
+                                <h4 class="testimonial-two__client-name"><a href="#touch">Sara Khan</a>
                                 </h4>
                                 <p class="testimonial-two__sub-title">IT Manager, Global Retail Corp</p>
                             </div>
@@ -1240,7 +1240,7 @@
                                 <img src="{{ asset('assets/images/testimonial/testimonial-2-3.jpg') }}" alt="">
                             </div>
                             <div class="testimonial-two__client-content">
-                                <h4 class="testimonial-two__client-name"><a href="{{ route('about') }}">Imran
+                                <h4 class="testimonial-two__client-name"><a href="#touch">Imran
                                         Hossain</a></h4>
                                 <p class="testimonial-two__sub-title">CEO, FinTech Innovations</p>
                             </div>
@@ -1271,7 +1271,7 @@
                                 <img src="{{ asset('assets/images/testimonial/testimonial-2-2.jpg') }}" alt="">
                             </div>
                             <div class="testimonial-two__client-content">
-                                <h4 class="testimonial-two__client-name"><a href="{{ route('about') }}">Nadia
+                                <h4 class="testimonial-two__client-name"><a href="#touch">Nadia
                                         Rahman</a></h4>
                                 <p class="testimonial-two__sub-title">Head of IT, Innovatech Solutions</p>
                             </div>

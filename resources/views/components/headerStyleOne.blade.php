@@ -37,7 +37,7 @@
                 <div class="main-menu-two__left">
                     <div class="main-menu-two__logo">
                         <a href="{{ route('index') }}"><img src="{{ asset('assets/images/resources/logo-1.png') }}"
-                                alt="" style="width: 170px; height:50px"></a>
+                                alt="" style="width: 170px; height:63px"></a>
                     </div>
                 </div>
                 <div class="main-menu-two__main-menu-box">

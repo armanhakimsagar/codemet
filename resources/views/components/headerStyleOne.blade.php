@@ -41,14 +41,12 @@
                     </div>
                 </div>
                 <div class="main-menu-two__main-menu-box">
-                    <a href="#" class="mobile-nav__toggler"><i class="fa fa-bars"></i></a>
-                    <x-menuList />
+
                 </div>
                 <div class="main-menu-two__right">
 
                     <div class="main-menu-two__btn-box">
-                        <a href="{{ route('contact') }}" class="thm-btn">Get in Touch<span
-                                class="icon-right-arrow"></span></a>
+                        <a href="#touch" class="thm-btn">Get in Touch<span class="icon-right-arrow"></span></a>
                     </div>
                 </div>
             </div>

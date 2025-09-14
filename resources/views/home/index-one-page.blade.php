@@ -32,9 +32,9 @@
                     <div class="main-slider-two__bg"
                         style="background-image: url({{ asset('assets/images/backgrounds/slider-2-1.jpg') }});"></div>
                     <ul class="list-unstyled main-slider-two__menu">
-                        <li><a href="{{ route('about') }}">Help</a></li>
-                        <li><a href="{{ route('contact') }}">Support</a></li>
-                        <li><a href="{{ route('faq') }}">Faqs</a></li>
+                        <li><a href="#touch">Help</a></li>
+                        <li><a href="#touch">Support</a></li>
+                        <li><a href="#touch">Faqs</a></li>
                     </ul>
                     <div class="main-slider-two__social-box">
                         <h4 class="main-slider-two__social-title">Follow Us:</h4>
@@ -174,9 +174,9 @@
                     <div class="main-slider-two__bg"
                         style="background-image: url({{ asset('assets/images/backgrounds/slider-2-2.jpg') }});"></div>
                     <ul class="list-unstyled main-slider-two__menu">
-                        <li><a href="{{ route('about') }}">Help</a></li>
-                        <li><a href="{{ route('contact') }}">Support</a></li>
-                        <li><a href="{{ route('faq') }}">Faqs</a></li>
+                        <li><a href="#touch">Help</a></li>
+                        <li><a href="#touch">Support</a></li>
+                        <li><a href="#touch">Faqs</a></li>
                     </ul>
                     <div class="main-slider-two__social-box">
                         <h4 class="main-slider-two__social-title">Follow Us:</h4>
@@ -316,9 +316,9 @@
                     <div class="main-slider-two__bg"
                         style="background-image: url({{ asset('assets/images/backgrounds/slider-2-3.jpg') }});"></div>
                     <ul class="list-unstyled main-slider-two__menu">
-                        <li><a href="{{ route('about') }}">Help</a></li>
-                        <li><a href="{{ route('contact') }}">Support</a></li>
-                        <li><a href="{{ route('faq') }}">Faqs</a></li>
+                        <li><a href="#touch">Help</a></li>
+                        <li><a href="#touch">Support</a></li>
+                        <li><a href="#touch">Faqs</a></li>
                     </ul>
                     <div class="main-slider-two__social-box">
                         <h4 class="main-slider-two__social-title">Follow Us:</h4>

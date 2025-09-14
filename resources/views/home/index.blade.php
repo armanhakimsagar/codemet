@@ -30,9 +30,9 @@
                     <div class="main-slider-two__bg"
                         style="background-image: url({{ asset('assets/images/backgrounds/slider-2-1.jpg') }});"></div>
                     <ul class="list-unstyled main-slider-two__menu">
-                        <li><a href="{{ route('about') }}">Help</a></li>
-                        <li><a href="{{ route('contact') }}">Support</a></li>
-                        <li><a href="{{ route('faq') }}">Faqs</a></li>
+                        <li><a href="#touch">Help</a></li>
+                        <li><a href="#touch">Support</a></li>
+                        <li><a href="#touch">Faqs</a></li>
                     </ul>
                     <div class="main-slider-two__social-box">
                         <h4 class="main-slider-two__social-title">Follow Us:</h4>
@@ -80,11 +80,7 @@
                                         performance. </p>
                                     <div class="main-slider-two__btns-box">
                                         <div class="main-slider-two__btn-box-1">
-                                            <a href="{{ route('contact') }}" class="thm-btn">Get Started<span
-                                                    class="icon-right-arrow"></span></a>
-                                        </div>
-                                        <div class="main-slider-two__btn-box-2">
-                                            <a href="{{ route('about') }}" class="thm-btn">Read More<span
+                                            <a href="#touch" class="thm-btn">Get Started<span
                                                     class="icon-right-arrow"></span></a>
                                         </div>
                                     </div>
@@ -149,11 +145,7 @@
                                         and reliable way to manage their IT infrastructure and Applications.</p>
                                     <div class="main-slider-two__btns-box">
                                         <div class="main-slider-two__btn-box-1">
-                                            <a href="{{ route('contact') }}" class="thm-btn">Get Started<span
-                                                    class="icon-right-arrow"></span></a>
-                                        </div>
-                                        <div class="main-slider-two__btn-box-2">
-                                            <a href="{{ route('about') }}" class="thm-btn">Read More<span
+                                            <a href="#touch" class="thm-btn">Get Started<span
                                                     class="icon-right-arrow"></span></a>
                                         </div>
                                     </div>
@@ -171,9 +163,9 @@
                     <div class="main-slider-two__bg"
                         style="background-image: url({{ asset('assets/images/backgrounds/slider-2-3.jpg') }});"></div>
                     <ul class="list-unstyled main-slider-two__menu">
-                        <li><a href="{{ route('about') }}">Help</a></li>
-                        <li><a href="{{ route('contact') }}">Support</a></li>
-                        <li><a href="{{ route('faq') }}">Faqs</a></li>
+                        <li><a href="#touch">Help</a></li>
+                        <li><a href="#touch">Support</a></li>
+                        <li><a href="#touch">Faqs</a></li>
                     </ul>
                     <div class="main-slider-two__social-box">
                         <h4 class="main-slider-two__social-title">Follow Us:</h4>
@@ -214,11 +206,7 @@
                                         through BI reports.</p>
                                     <div class="main-slider-two__btns-box">
                                         <div class="main-slider-two__btn-box-1">
-                                            <a href="{{ route('contact') }}" class="thm-btn">Get Started<span
-                                                    class="icon-right-arrow"></span></a>
-                                        </div>
-                                        <div class="main-slider-two__btn-box-2">
-                                            <a href="{{ route('about') }}" class="thm-btn">Read More<span
+                                            <a href="#touch" class="thm-btn">Get Started<span
                                                     class="icon-right-arrow"></span></a>
                                         </div>
                                     </div>
@@ -468,7 +456,7 @@
                 <div class="section-title text-left sec-title-animation animation-style2">
                     <div class="section-title__tagline-box">
                         <div class="section-title__tagline-shape-1"></div>
-                        <span class="section-title__tagline">Our Services</span>
+                        <span class="section-title__tagline">Our Product & Service Partners</span>
                         <div class="section-title__tagline-shape-2"></div>
                     </div>
                     <h2 class="section-title__title title-animation">Your Business with Cutting-Edge IT<br>
@@ -480,7 +468,6 @@
                     <div class="services-two__round-text-box-outer">
                         <div class="services-two__round-text-box-inner">
                             <div class="services-two__curved-circle">
-                                View All Project View All Services
                             </div>
                             <div class="services-two__round-icon">
                                 <img src="{{ asset('assets/images/icon/services-two-round-icon.png') }}" alt="">
@@ -494,23 +481,22 @@
                     <div class="services-two__services-list-single services-two__services-list-single-1">
                         <div class="services-two__count-and-title">
                             <div class="services-two__count"></div>
-                            <h3 class="services-two__title"><a href="{{ route('about') }}">Software
-                                    Development
-                                    <br> Solutions</a></h3>
+                            <h3 class="services-two__title"><a href="#touch">Oracle
+                                    <br> Virtual Box</a></h3>
                         </div>
                         <div class="services-two__service-list-box">
                             <ul class="services-two__services-list-inner list-unstyled">
                                 <li>
-                                    <p><span class="icon-plus"></span>UI/UX Design</p>
-                                    <p><span class="icon-plus"></span>Mobile Application</p>
+                                    <p><span class="icon-plus"></span>Microsoft Hyper-V</p>
+                                    <p><span class="icon-plus"></span>vmware</p>
                                 </li>
                                 <li>
-                                    <p><span class="icon-plus"></span>Mobile Application</p>
-                                    <p><span class="icon-plus"></span>Research</p>
+                                    <p><span class="icon-plus"></span>Cloud Stack</p>
+                                    <p><span class="icon-plus"></span>KVM</p>
                                 </li>
                                 <li>
-                                    <p><span class="icon-plus"></span>Research</p>
-                                    <p><span class="icon-plus"></span>UI/UX Design</p>
+                                    <p><span class="icon-plus"></span>AWS</p>
+                                    <p><span class="icon-plus"></span>Microsoft Azure</p>
                                 </li>
                             </ul>
                         </div>
@@ -521,23 +507,22 @@
                     <div class="services-two__services-list-single">
                         <div class="services-two__count-and-title">
                             <div class="services-two__count"></div>
-                            <h3 class="services-two__title"><a href="{{ route('about') }}">Cybersecurity
-                                    Risk
-                                    <br> Management</a></h3>
+                            <h3 class="services-two__title"><a href="{{ route('about') }}">Up
+                                    <br> Cloud</a></h3>
                         </div>
                         <div class="services-two__service-list-box">
                             <ul class="services-two__services-list-inner list-unstyled">
                                 <li>
-                                    <p><span class="icon-plus"></span>Security</p>
-                                    <p><span class="icon-plus"></span>Performance</p>
+                                    <p><span class="icon-plus"></span>HAPROXY</p>
+                                    <p><span class="icon-plus"></span>GALERA CLUSTER</p>
                                 </li>
                                 <li>
-                                    <p><span class="icon-plus"></span>Scalability</p>
-                                    <p><span class="icon-plus"></span>Reliability</p>
+                                    <p><span class="icon-plus"></span>Mysql</p>
+                                    <p><span class="icon-plus"></span>Maria DB</p>
                                 </li>
                                 <li>
-                                    <p><span class="icon-plus"></span>Innovation</p>
-                                    <p><span class="icon-plus"></span>Efficiency</p>
+                                    <p><span class="icon-plus"></span>Microsoft SQL Server</p>
+                                    <p><span class="icon-plus"></span>Oracle Database</p>
                                 </li>
                             </ul>
                         </div>
@@ -548,23 +533,22 @@
                     <div class="services-two__services-list-single">
                         <div class="services-two__count-and-title">
                             <div class="services-two__count"></div>
-                            <h3 class="services-two__title"><a href="{{ route('about') }}">Cloud
-                                    Solutions
-                                    <br> Provider</a></h3>
+                            <h3 class="services-two__title"><a href="{{ route('about') }}">OPN
+                                    <br> Sense</a></h3>
                         </div>
                         <div class="services-two__service-list-box">
                             <ul class="services-two__services-list-inner list-unstyled">
                                 <li>
-                                    <p><span class="icon-plus"></span>Cloud Security</p>
-                                    <p><span class="icon-plus"></span>Cloud Scalability</p>
+                                    <p><span class="icon-plus"></span>Pf Sense</p>
+                                    <p><span class="icon-plus"></span>Cloudflare</p>
                                 </li>
                                 <li>
-                                    <p><span class="icon-plus"></span>Cloud Integration</p>
-                                    <p><span class="icon-plus"></span>Cloud Performance</p>
+                                    <p><span class="icon-plus"></span>INDUSFACE</p>
+                                    <p><span class="icon-plus"></span>POWER BI</p>
                                 </li>
                                 <li>
-                                    <p><span class="icon-plus"></span>Cloud Backup</p>
-                                    <p><span class="icon-plus"></span>Cloud Optimization</p>
+                                    <p><span class="icon-plus"></span>NGINX</p>
+                                    <p><span class="icon-plus"></span>Apache</p>
                                 </li>
                             </ul>
                         </div>
@@ -575,22 +559,50 @@
                     <div class="services-two__services-list-single">
                         <div class="services-two__count-and-title">
                             <div class="services-two__count"></div>
-                            <h3 class="services-two__title"><a href="{{ route('about') }}">Data Analytics
-                                    <br> Consulting</a></h3>
+                            <h3 class="services-two__title"><a href="{{ route('about') }}">Docker
+                                    <br> Kubernetes</a></h3>
                         </div>
                         <div class="services-two__service-list-box">
                             <ul class="services-two__services-list-inner list-unstyled">
                                 <li>
-                                    <p><span class="icon-plus"></span>Data Insights</p>
-                                    <p><span class="icon-plus"></span>Predictive Analytics</p>
+                                    <p><span class="icon-plus"></span>Ubuntu</p>
+                                    <p><span class="icon-plus"></span>CentOS</p>
                                 </li>
                                 <li>
-                                    <p><span class="icon-plus"></span>Big Data</p>
-                                    <p><span class="icon-plus"></span>Business Intelligence</p>
+                                    <p><span class="icon-plus"></span>FreeBSD</p>
+                                    <p><span class="icon-plus"></span>Windows Server</p>
                                 </li>
                                 <li>
-                                    <p><span class="icon-plus"></span>Data Visualization</p>
-                                    <p><span class="icon-plus"></span>Data Strategy</p>
+                                    <p><span class="icon-plus"></span>Elasticsearch</p>
+                                    <p><span class="icon-plus"></span>Splunk</p>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="services-two__hover-img">
+                            <img src="{{ asset('assets/images/services/services-2-4.jpg') }}" alt="Image">
+                        </div>
+                    </div>
+
+
+                    <div class="services-two__services-list-single">
+                        <div class="services-two__count-and-title">
+                            <div class="services-two__count"></div>
+                            <h3 class="services-two__title"><a href="{{ route('about') }}">Ansible
+                                    <br> ZABBIX</a></h3>
+                        </div>
+                        <div class="services-two__service-list-box">
+                            <ul class="services-two__services-list-inner list-unstyled">
+                                <li>
+                                    <p><span class="icon-plus"></span>Prometheus</p>
+                                    <p><span class="icon-plus"></span>Grafana</p>
+                                </li>
+                                <li>
+                                    <p><span class="icon-plus"></span>Databhub Asia</p>
+                                    <p><span class="icon-plus"></span>Windows Server</p>
+                                </li>
+                                <li>
+                                    <p><span class="icon-plus"></span>Equinix</p>
+                                    <p><span class="icon-plus"></span>Backup247.com.au</p>
                                 </li>
                             </ul>
                         </div>
@@ -626,25 +638,49 @@
                                 Solutions<br> for Success
                             </h2>
                         </div>
-                        <p class="why-choose-one__text">Innovating and empowering businesses with tailored solutions
-                            for success and growth. Innovating and empowering </p>
+                        <p class="why-choose-one__text">At CASTILO Cloud, we deliver a secure, hyper-converged private
+                            cloud platform designed for high performance, scalability, and compliance. Our SPaaS solution
+                            ensures cost-effective infrastructure, robust cybersecurity, and seamless IT management. With
+                            enterprise-grade reliability and local regulatory compliance, we help businesses grow
+                            confidently in a secure digital environment. </p>
                         <ul class="why-choose-one__progress-list list-unstyled">
                             <li>
                                 <div class="why-choose-one__progress">
-                                    <h4 class="why-choose-one__progress-title">Camping Launches</h4>
+                                    <h4 class="why-choose-one__progress-title">Secure Platform as a Service (SPaaS)</h4>
                                     <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="86%">
-                                            <div class="count-text">86%</div>
+                                        <div class="bar-inner count-bar" data-percent="98%">
+                                            <div class="count-text">98%</div>
                                         </div>
                                     </div>
                                 </div>
                             </li>
                             <li>
                                 <div class="why-choose-one__progress">
-                                    <h4 class="why-choose-one__progress-title">Innovation Design</h4>
+                                    <h4 class="why-choose-one__progress-title">Big Data Management & BI Insights</h4>
                                     <div class="bar">
-                                        <div class="bar-inner count-bar" data-percent="76%">
-                                            <div class="count-text">76%</div>
+                                        <div class="bar-inner count-bar" data-percent="95%">
+                                            <div class="count-text">95%</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="why-choose-one__progress">
+                                    <h4 class="why-choose-one__progress-title">Advanced Backup & Ransomware Protection</h4>
+                                    <div class="bar">
+                                        <div class="bar-inner count-bar" data-percent="100%">
+                                            <div class="count-text">100%</div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="why-choose-one__progress">
+                                    <h4 class="why-choose-one__progress-title">Global Private & Hybrid Cloud Infrastructure
+                                    </h4>
+                                    <div class="bar">
+                                        <div class="bar-inner count-bar" data-percent="95%">
+                                            <div class="count-text">95%</div>
                                         </div>
                                     </div>
                                 </div>
@@ -652,8 +688,7 @@
                         </ul>
                         <div class="why-choose-one__btn-and-client-info">
                             <div class="why-choose-one__btn-box">
-                                <a href="{{ route('about') }}" class="thm-btn">About Us<span
-                                        class="icon-right-arrow"></span></a>
+                                <a href="#touch" class="thm-btn">Connect us<span class="icon-right-arrow"></span></a>
                             </div>
                             <div class="why-choose-one__client-box">
                                 <div class="why-choose-one__client-img">
@@ -661,7 +696,7 @@
                                         alt="">
                                 </div>
                                 <div class="why-choose-one__client-content">
-                                    <h3>Arman hakim sagar</h3>
+                                    <h3>~Shaerul H Joarder (Neel)</h3>
                                     <span>Founder & CEO</span>
                                 </div>
                             </div>
@@ -692,35 +727,54 @@
         <div class="sliding-text-three__wrap">
             <ul class="sliding-text-three__list list-unstyled marquee_mode">
                 <li>
-                    <h2 data-hover="UI/UX Design" class="sliding-text-three__title">UI/UX Design</h2>
+                    <h2 data-hover="Secure Platform as a Service (SPaaS)" class="sliding-text-three__title">Secure
+                        Platform as a Service (SPaaS)</h2>
                     <span class="icon-star"></span>
                 </li>
                 <li>
-                    <h2 data-hover="Product Design" class="sliding-text-three__title">Product Design</h2>
+                    <h2 data-hover="AI-Powered Managed Detection & Response (MDR)" class="sliding-text-three__title">
+                        AI-Powered Managed Detection & Response (MDR)</h2>
                     <span class="icon-star"></span>
                 </li>
                 <li>
-                    <h2 data-hover="Web Development" class="sliding-text-three__title">Web Development</h2>
+                    <h2 data-hover="Security Service Edge (SSE) Security Suite" class="sliding-text-three__title">Security
+                        Service Edge (SSE) Security Suite</h2>
                     <span class="icon-star"></span>
                 </li>
                 <li>
-                    <h2 data-hover="BRANDING" class="sliding-text-three__title">BRANDING</h2>
+                    <h2 data-hover="Big Data Analytics & BI Reporting" class="sliding-text-three__title">Big Data
+                        Analytics & BI Reporting</h2>
                     <span class="icon-star"></span>
                 </li>
                 <li>
-                    <h2 data-hover="Cyber Security" class="sliding-text-three__title">Cyber Security</h2>
+                    <h2 data-hover="Advanced Backup & Ransomware Protection" class="sliding-text-three__title">Advanced
+                        Backup & Ransomware Protection</h2>
                     <span class="icon-star"></span>
                 </li>
                 <li>
-                    <h2 data-hover="Website design" class="sliding-text-three__title">Website design</h2>
+                    <h2 data-hover="DevOps CI/CD Staging-to-Production Support" class="sliding-text-three__title">DevOps
+                        CI/CD Staging-to-Production Support</h2>
                     <span class="icon-star"></span>
                 </li>
                 <li>
-                    <h2 data-hover="Digital Marketing" class="sliding-text-three__title">Digital Marketing</h2>
+                    <h2 data-hover="Hybrid & On-Premise Cloud Solutions" class="sliding-text-three__title">Hybrid &
+                        On-Premise Cloud Solutions</h2>
                     <span class="icon-star"></span>
                 </li>
                 <li>
-                    <h2 data-hover="UI/UX Design" class="sliding-text-three__title">UI/UX Design</h2>
+                    <h2 data-hover="Data Center Interconnection & Global Access" class="sliding-text-three__title">Data
+                        Center Interconnection & Global Access</h2>
+                    <span class="icon-star"></span>
+                </li>
+                <li>
+                    <h2 data-hover="Business Continuity Planning (BCP) & Disaster Recovery (DC-DR)"
+                        class="sliding-text-three__title">
+                        Business Continuity Planning (BCP) & Disaster Recovery (DC-DR)</h2>
+                    <span class="icon-star"></span>
+                </li>
+                <li>
+                    <h2 data-hover="Threat Intelligence & XDR Integration" class="sliding-text-three__title">Threat
+                        Intelligence & XDR Integration</h2>
                     <span class="icon-star"></span>
                 </li>
             </ul>
@@ -752,9 +806,11 @@
                 <li class="col-xl-4 col-lg-4">
                     <div class="process-two__single">
                         <div class="process-two__count"></div>
-                        <h3 class="process-two__title">Research & Discovery</h3>
-                        <p class="process-two__text">We begin by understanding your needs,<br> goals, and vision.
-                            Through brainstorming<br> sessions and strategic planning,</p>
+                        <h3 class="process-two__title">Consultation & Requirements Analysis</h3>
+                        <p class="process-two__text">We begin by understanding your organization’s infrastructure needs,
+                            <br>
+                            security requirements, and business objectives to design a tailor-made private cloud solution
+                        </p>
                     </div>
                 </li>
                 <!--Process Two Single End-->
@@ -768,9 +824,11 @@
                             <img src="{{ asset('assets/images/shapes/process-two-shape-2.png') }}" alt="">
                         </div>
                         <div class="process-two__count"></div>
-                        <h3 class="process-two__title">Design and Development</h3>
-                        <p class="process-two__text">Once the strategy is in place, we move to<br> designing and
-                            developing your vision. Our<br> team collaborates closely to bring your<br> ideas</p>
+                        <h3 class="process-two__title">Architecture Design & Deployment</h3>
+                        <p class="process-two__text">Our expert team designs a hyper-converged, secure private cloud
+                            architecture with built-in AI-powered cybersecurity, <br> backup, and disaster recovery
+                            capabilities,
+                            followed by seamless deployment.</p>
                     </div>
                 </li>
                 <!--Process Two Single End-->
@@ -778,368 +836,59 @@
                 <li class="col-xl-4 col-lg-4">
                     <div class="process-two__single">
                         <div class="process-two__count"></div>
-                        <h3 class="process-two__title">Testing and Launch</h3>
-                        <p class="process-two__text">Before going live, we rigorously test to<br> ensure optimal
-                            functionality. After<br> thorough quality checks, we launch your<br> project </p>
+                        <h3 class="process-two__title">Integration & Optimization</h3>
+                        <p class="process-two__text">We integrate your applications, data, and DevOps pipelines into the
+                            <br>
+                            CASTILO CLOUD platform, ensuring high performance, scalability, and compliance with minimal
+                            disruption.
+                        </p>
                     </div>
                 </li>
-                <li>
-                    <!--Process Two Single End-->
+
+                <li class="col-xl-4 col-lg-4">
+                    <div class="process-two__single">
+                        <div class="process-two__count"></div>
+                        <h3 class="process-two__title">Continuous Monitoring & Support</h3>
+                        <p class="process-two__text">With AI-driven MDR, SSE security layers, and 24/7 support, we provide
+                            real-time monitoring, threat detection,<br> and performance optimization to keep your
+                            infrastructure
+                            secure and efficient.
+                        </p>
+                    </div>
                 </li>
+
+                <li class="col-xl-4 col-lg-4">
+                    <div class="process-two__single">
+                        <div class="process-two__shape-1 float-bob-x">
+                            <img src="{{ asset('assets/images/shapes/process-two-shape-1.png') }}" alt="">
+                        </div>
+                        <div class="process-two__shape-2 float-bob-x">
+                            <img src="{{ asset('assets/images/shapes/process-two-shape-2.png') }}" alt="">
+                        </div>
+                        <div class="process-two__count"></div>
+                        <h3 class="process-two__title">Data Protection & Compliance Assurance</h3>
+                        <p class="process-two__text">We implement multi-layered backup security, ransomware protection, and
+                            zero-trust compliance frameworks <br>to ensure your data is always safe and adheres to global
+                            regulatory standards.</p>
+                    </div>
+                </li>
+
+
+                <li class="col-xl-4 col-lg-4">
+                    <div class="process-two__single">
+                        <div class="process-two__count"></div>
+                        <h3 class="process-two__title">Performance Scaling & Future Upgrades</h3>
+                        <p class="process-two__text">As your business grows, we help scale infrastructure, optimize
+                            resources, and integrate new technologies <br> so your cloud environment remains future-ready
+                            and
+                            cost-efficient.
+                        </p>
+                    </div>
+                </li>
+
             </ul>
         </div>
     </section>
-    <!-- Process Two End -->
-
-    <!-- Portfolio Two Start -->
-    <section class="portfolio-two">
-        <div class="portfolio-two__shape-1 float-bob-y">
-            <img src="{{ asset('assets/images/shapes/portfolio-two-shape-1.png') }}" alt="">
-        </div>
-        <div class="portfolio-two__shape-2"></div>
-        <div class="portfolio-two__shape-3"></div>
-        <div class="portfolio-two__shape-4"></div>
-        <div class="container">
-            <div class="section-title text-center sec-title-animation animation-style1">
-                <div class="section-title__tagline-box">
-                    <div class="section-title__tagline-shape-1"></div>
-                    <span class="section-title__tagline">Portfolio</span>
-                    <div class="section-title__tagline-shape-2"></div>
-                </div>
-                <h2 class="section-title__title title-animation">Explore Our Creative <span>Journey</span><br>
-                    <span> Crafting Success Through</span>
-                </h2>
-            </div>
-            <div class="portfolio-two__carousel-container">
-                <div class="portfolio-two__carousel owl-carousel owl-theme">
-                    <!--Portfolio Two Single Start-->
-                    <div class="item">
-                        <div class="portfolio-two__single-box">
-                            <ul class="portfolio-two__box list-unstyled">
-                                <li>
-                                    <div class="portfolio-two__box-content">
-                                        <div class="single-portfolio-two__bg"
-                                            style="background-image: url({{ asset('assets/images/project/portfolio-2-1.jpg') }});">
-                                        </div>
-                                        <div class="portfolio-two__title">
-                                            <h3><a href="{{ route('about') }}">Innovative Solutions,<br>
-                                                    Powerful
-                                                    Results</a></h3>
-                                        </div>
-                                        <div class="portfolio-two__content-box">
-                                            <div class="portfolio-two__icon">
-                                                <a href="" class="img-popup"><span
-                                                        class="icon-right-arrow-1"></span></a>
-                                            </div>
-                                            <div class="portfolio-two__title-box">
-                                                <h3 class="portfolio-two__title-2"><a
-                                                        href="{{ route('portfolio-details') }}">Innovative Solutions,<br>
-                                                        Powerful
-                                                        Results</a></h3>
-                                                <p class="portfolio-two__text">Explore How We've Empowered
-                                                    Businesses with Innovative Tech Solutions</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="active">
-                                    <div class="portfolio-two__box-content">
-                                        <div class="single-portfolio-two__bg"
-                                            style="background-image: url({{ asset('assets/images/project/portfolio-2-2.jpg') }});">
-                                        </div>
-                                        <div class="portfolio-two__title">
-                                            <h3><a href="{{ route('about') }}">Transforming Ideas Into<br>
-                                                    Digital
-                                                    Excellence</a></h3>
-                                        </div>
-                                        <div class="portfolio-two__content-box">
-                                            <div class="portfolio-two__icon">
-                                                <a href="{{ asset('assets/images/project/portfolio-2-2.jpg') }}"
-                                                    class="img-popup"><span class="icon-right-arrow-1"></span></a>
-                                            </div>
-                                            <div class="portfolio-two__title-box">
-                                                <h3 class="portfolio-two__title-2"><a
-                                                        href="{{ route('about') }}">Transforming Ideas Into
-                                                        Digital Excellence</a></h3>
-                                                <p class="portfolio-two__text">Explore How We've Empowered
-                                                    Businesses with Innovative Tech Solutions</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="portfolio-two__box-content">
-                                        <div class="single-portfolio-two__bg"
-                                            style="background-image: url({{ asset('assets/images/project/portfolio-2-3.jpg') }});">
-                                        </div>
-                                        <div class="portfolio-two__title">
-                                            <h3><a href="{{ route('about') }}">Driving Success Through<br>
-                                                    Technology</a></h3>
-                                        </div>
-                                        <div class="portfolio-two__content-box">
-                                            <div class="portfolio-two__icon">
-                                                <a href="" class="img-popup"><span
-                                                        class="icon-right-arrow-1"></span></a>
-                                            </div>
-                                            <div class="portfolio-two__title-box">
-                                                <h3 class="portfolio-two__title-2"><a href="{{ route('about') }}">Driving
-                                                        Success Through
-                                                        Technology</a></h3>
-                                                <p class="portfolio-two__text">Explore How We've Empowered
-                                                    Businesses with Innovative Tech Solutions</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="portfolio-two__box-content">
-                                        <div class="single-portfolio-two__bg"
-                                            style="background-image: url({{ asset('assets/images/project/portfolio-2-4.jpg') }});">
-                                        </div>
-                                        <div class="portfolio-two__title">
-                                            <h3><a href="{{ route('about') }}">Empowering Businesses<br> with
-                                                    Cutting-Edge IT</a></h3>
-                                        </div>
-                                        <div class="portfolio-two__content-box">
-                                            <div class="portfolio-two__icon">
-                                                <a href="" class="img-popup"><span
-                                                        class="icon-right-arrow-1"></span></a>
-                                            </div>
-                                            <div class="portfolio-two__title-box">
-                                                <h3 class="portfolio-two__title-2"><a
-                                                        href="{{ route('about') }}">Empowering Businesses with
-                                                        Cutting-Edge IT</a></h3>
-                                                <p class="portfolio-two__text">Explore How We've Empowered
-                                                    Businesses with Innovative Tech Solutions</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!--Portfolio Two Single End-->
-                    <!--Portfolio Two Single Start-->
-                    <div class="item">
-                        <div class="portfolio-two__single-box">
-                            <ul class="portfolio-two__box list-unstyled">
-                                <li>
-                                    <div class="portfolio-two__box-content">
-                                        <div class="single-portfolio-two__bg"
-                                            style="background-image: url({{ asset('assets/images/project/portfolio-2-1.jpg') }});">
-                                        </div>
-                                        <div class="portfolio-two__title">
-                                            <h3><a href="{{ route('about') }}">Innovative Solutions,<br>
-                                                    Powerful
-                                                    Results</a></h3>
-                                        </div>
-                                        <div class="portfolio-two__content-box">
-                                            <div class="portfolio-two__icon">
-                                                <a href="" class="img-popup"><span
-                                                        class="icon-right-arrow-1"></span></a>
-                                            </div>
-                                            <div class="portfolio-two__title-box">
-                                                <h3 class="portfolio-two__title-2"><a
-                                                        href="{{ route('about') }}">Innovative Solutions,<br>
-                                                        Powerful
-                                                        Results</a></h3>
-                                                <p class="portfolio-two__text">Explore How We've Empowered
-                                                    Businesses with Innovative Tech Solutions</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="active">
-                                    <div class="portfolio-two__box-content">
-                                        <div class="single-portfolio-two__bg"
-                                            style="background-image: url({{ asset('assets/images/project/portfolio-2-2.jpg') }});">
-                                        </div>
-                                        <div class="portfolio-two__title">
-                                            <h3><a href="{{ route('about') }}">Transforming Ideas Into<br>
-                                                    Digital
-                                                    Excellence</a></h3>
-                                        </div>
-                                        <div class="portfolio-two__content-box">
-                                            <div class="portfolio-two__icon">
-                                                <a href="" class="img-popup"><span
-                                                        class="icon-right-arrow-1"></span></a>
-                                            </div>
-                                            <div class="portfolio-two__title-box">
-                                                <h3 class="portfolio-two__title-2"><a
-                                                        href="{{ route('about') }}">Transforming Ideas Into
-                                                        Digital Excellence</a></h3>
-                                                <p class="portfolio-two__text">Explore How We've Empowered
-                                                    Businesses with Innovative Tech Solutions</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="portfolio-two__box-content">
-                                        <div class="single-portfolio-two__bg"
-                                            style="background-image: url({{ asset('assets/images/project/portfolio-2-3.jpg') }});">
-                                        </div>
-                                        <div class="portfolio-two__title">
-                                            <h3><a href="{{ route('about') }}">Driving Success Through<br>
-                                                    Technology</a></h3>
-                                        </div>
-                                        <div class="portfolio-two__content-box">
-                                            <div class="portfolio-two__icon">
-                                                <a href="" class="img-popup"><span
-                                                        class="icon-right-arrow-1"></span></a>
-                                            </div>
-                                            <div class="portfolio-two__title-box">
-                                                <h3 class="portfolio-two__title-2"><a href="{{ route('about') }}">Driving
-                                                        Success Through
-                                                        Technology</a></h3>
-                                                <p class="portfolio-two__text">Explore How We've Empowered
-                                                    Businesses with Innovative Tech Solutions</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="portfolio-two__box-content">
-                                        <div class="single-portfolio-two__bg"
-                                            style="background-image: url({{ asset('assets/images/project/portfolio-2-4.jpg') }});">
-                                        </div>
-                                        <div class="portfolio-two__title">
-                                            <h3><a href="{{ route('portfolio-details') }}">Empowering Businesses<br> with
-                                                    Cutting-Edge IT</a></h3>
-                                        </div>
-                                        <div class="portfolio-two__content-box">
-                                            <div class="portfolio-two__icon">
-                                                <a href="" class="img-popup"><span
-                                                        class="icon-right-arrow-1"></span></a>
-                                            </div>
-                                            <div class="portfolio-two__title-box">
-                                                <h3 class="portfolio-two__title-2"><a
-                                                        href="{{ route('about') }}">Empowering Businesses
-                                                        with
-                                                        Cutting-Edge IT</a></h3>
-                                                <p class="portfolio-two__text">Explore How We've Empowered
-                                                    Businesses with Innovative Tech Solutions</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!--Portfolio Two Single End-->
-                    <!--Portfolio Two Single Start-->
-                    <div class="item">
-                        <div class="portfolio-two__single-box">
-                            <ul class="portfolio-two__box list-unstyled">
-                                <li>
-                                    <div class="portfolio-two__box-content">
-                                        <div class="single-portfolio-two__bg"
-                                            style="background-image: url({{ asset('assets/images/project/portfolio-2-1.jpg') }});">
-                                        </div>
-                                        <div class="portfolio-two__title">
-                                            <h3><a href="{{ route('about') }}">Innovative Solutions,<br>
-                                                    Powerful
-                                                    Results</a></h3>
-                                        </div>
-                                        <div class="portfolio-two__content-box">
-                                            <div class="portfolio-two__icon">
-                                                <a href="" class="img-popup"><span
-                                                        class="icon-right-arrow-1"></span></a>
-                                            </div>
-                                            <div class="portfolio-two__title-box">
-                                                <h3 class="portfolio-two__title-2"><a
-                                                        href="{{ route('about') }}">Innovative Solutions,<br>
-                                                        Powerful
-                                                        Results</a></h3>
-                                                <p class="portfolio-two__text">Explore How We've Empowered
-                                                    Businesses with Innovative Tech Solutions</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li class="active">
-                                    <div class="portfolio-two__box-content">
-                                        <div class="single-portfolio-two__bg"
-                                            style="background-image: url({{ asset('assets/images/project/portfolio-2-2.jpg') }});">
-                                        </div>
-                                        <div class="portfolio-two__title">
-                                            <h3><a href="{{ route('about') }}">Transforming Ideas Into<br>
-                                                    Digital
-                                                    Excellence</a></h3>
-                                        </div>
-                                        <div class="portfolio-two__content-box">
-                                            <div class="portfolio-two__icon">
-                                                <a href="" class="img-popup"><span
-                                                        class="icon-right-arrow-1"></span></a>
-                                            </div>
-                                            <div class="portfolio-two__title-box">
-                                                <h3 class="portfolio-two__title-2"><a
-                                                        href="{{ route('about') }}">Transforming Ideas Into
-                                                        Digital Excellence</a></h3>
-                                                <p class="portfolio-two__text">Explore How We've Empowered
-                                                    Businesses with Innovative Tech Solutions</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="portfolio-two__box-content">
-                                        <div class="single-portfolio-two__bg"
-                                            style="background-image: url({{ asset('assets/images/project/portfolio-2-3.jpg') }});">
-                                        </div>
-                                        <div class="portfolio-two__title">
-                                            <h3><a href="{{ route('about') }}">Driving Success Through<br>
-                                                    Technology</a></h3>
-                                        </div>
-                                        <div class="portfolio-two__content-box">
-                                            <div class="portfolio-two__icon">
-                                                <a href="" class="img-popup"><span
-                                                        class="icon-right-arrow-1"></span></a>
-                                            </div>
-                                            <div class="portfolio-two__title-box">
-                                                <h3 class="portfolio-two__title-2"><a href="{{ route('about') }}">Driving
-                                                        Success Through
-                                                        Technology</a></h3>
-                                                <p class="portfolio-two__text">Explore How We've Empowered
-                                                    Businesses with Innovative Tech Solutions</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                                <li>
-                                    <div class="portfolio-two__box-content">
-                                        <div class="single-portfolio-two__bg"
-                                            style="background-image: url({{ asset('assets/images/project/portfolio-2-4.jpg') }});">
-                                        </div>
-                                        <div class="portfolio-two__title">
-                                            <h3><a href="{{ route('about') }}">Empowering Businesses<br> with
-                                                    Cutting-Edge IT</a></h3>
-                                        </div>
-                                        <div class="portfolio-two__content-box">
-                                            <div class="portfolio-two__icon">
-                                                <a href="" class="img-popup"><span
-                                                        class="icon-right-arrow-1"></span></a>
-                                            </div>
-                                            <div class="portfolio-two__title-box">
-                                                <h3 class="portfolio-two__title-2"><a
-                                                        href="{{ route('about') }}">Empowering Businesses
-                                                        with
-                                                        Cutting-Edge IT</a></h3>
-                                                <p class="portfolio-two__text">Explore How We've Empowered
-                                                    Businesses with Innovative Tech Solutions</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </li>
-                            </ul>
-                        </div>
-                    </div>
-                    <!--Portfolio Two Single End-->
-                </div>
-            </div>
-        </div>
-    </section>
-    <!-- Portfolio Two End -->
 
     <!-- Pricing Two Start -->
     <section class="pricing-two">
@@ -1743,7 +1492,7 @@
             <img src="{{ asset('assets/images/shapes/contact-two-shape-1.png') }}" alt="">
         </div>
         <div class="contact-two__shape-2"></div>
-        <div class="container">
+        <div class="container" id="touch">
             <div class="row">
                 <div class="col-xl-6">
                     <div class="contact-two__left">
@@ -1791,8 +1540,7 @@
                     </div>
                 </div>
                 <div class="col-xl-6">
-                    <div class="contact-two__right wow slideInRight" data-wow-delay="100ms"
-                        data-wow-duration="2500ms">
+                    <div class="contact-two__right wow slideInRight" data-wow-delay="100ms" data-wow-duration="2500ms">
                         <form class="contact-form-validated contact-one__form" action="assets/inc/sendemail.php"
                             method="post" novalidate="novalidate">
                             <div class="row">
@@ -1802,8 +1550,7 @@
                                         <div class="contact-one__input-icon">
                                             <span class="icon-user-1"></span>
                                         </div>
-                                        <input type="text" name="name" placeholder="Thomas Alison"
-                                            required="">
+                                        <input type="text" name="name" placeholder="Thomas Alison" required="">
                                     </div>
                                 </div>
                                 <div class="col-xl-6 col-lg-6">
@@ -1895,8 +1642,7 @@
             <div class="event-one__bottom">
                 <div class="row">
                     <div class="col-xl-5">
-                        <div class="event-one__left wow slideInLeft" data-wow-delay="100ms"
-                            data-wow-duration="2500ms">
+                        <div class="event-one__left wow slideInLeft" data-wow-delay="100ms" data-wow-duration="2500ms">
                             <div class="event-one__img">
                                 <img src="{{ asset('assets/images/resources/event-one-img-1.jpg') }}" alt="">
                                 <div class="event-one__video-link">

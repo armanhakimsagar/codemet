@@ -54,47 +54,22 @@
                         </ul>
                     </div>
                 </div>
-                <div class="col-xl-2 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="200ms">
-                    <div class="footer-widget-two__quick-links">
-                        <h4 class="footer-widget-two__title">Pages</h4>
-                        <ul class="footer-widget-two__quick-links-list list-unstyled">
-                            <li><a href="{{ route('index') }}"><span class="icon-right-arrow-2"></span>Home</a></li>
-                            <li><a href="{{ route('about') }}"><span class="icon-right-arrow-2"></span>About Us</a></li>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="300ms">
-                    <div class="footer-widget-two__support">
-                        <h4 class="footer-widget-two__title">Support</h4>
-                        <ul class="footer-widget-two__quick-links-list list-unstyled">
-                            <li><a href="{{ route('contact') }}"><span class="icon-right-arrow-2"></span>Contact Us</a>
-                            </li>
-                            <li><a href="{{ route('contact') }}"><span class="icon-right-arrow-2"></span>Live Chat</a>
-                            </li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
+                <div class="col-xl-6 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="400ms">
                     <div class="footer-widget-two__services">
                         <h4 class="footer-widget-two__title">Our Services</h4>
                         <ul class="footer-widget-two__quick-links-list list-unstyled">
-                            <li><a href="{{ route('about') }}"><span class="icon-right-arrow-2"></span>UI/UX
-                                    Design</a>
+                            <li><span class="icon-right-arrow-2"></span>Secure Platform as a Service (SPaaS)
                             </li>
-                            <li><a href="{{ route('about') }}"><span class="icon-right-arrow-2"></span>Website
-                                    Design</a>
+                            <li><span class="icon-right-arrow-2"></span>AI-Powered Cybersecurity (MDR & SSE Security)
                             </li>
-                            <li><a href="{{ route('about') }}"><span class="icon-right-arrow-2"></span>Web
-                                    Development</a></li>
-                            <li><a href="{{ route('about') }}"><span class="icon-right-arrow-2"></span>Product
-                                    Design</a>
+                            <li><span class="icon-right-arrow-2"></span>Big Data Management & BI Insights</li>
+                            <li><span class="icon-right-arrow-2"></span>Product
+                                Design</a>
                             </li>
-                            <li><a href="{{ route('about') }}"><span class="icon-right-arrow-2"></span>Online
-                                    Branding</a>
+                            <li><span class="icon-right-arrow-2"></span>Advanced Backup & Ransomware Protection
                             </li>
-                            <li><a href="{{ route('about') }}"><span class="icon-right-arrow-2"></span>Personal
-                                    Branding</a></li>
+                            <li><span class="icon-right-arrow-2"></span>Global Private & Hybrid Cloud Infrastructure
+                            </li>
                         </ul>
                     </div>
                 </div>
